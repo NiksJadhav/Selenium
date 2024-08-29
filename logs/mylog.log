@@ -322,3 +322,6 @@
 [INFO ] 2022-05-28 06:12:14.991 [main] MyStoreV1 - 
 ***************TestCase verifyAddToWishlistWithoutLogin started*****************
 [INFO ] 2022-05-28 06:12:18.148 [main] MyStoreV1 - verifyAddToWishlistWithoutLogin - passed
+[INFO ] 2024-08-24 19:26:12.218 [main] MyStoreV1 - url opened
+[INFO ] 2024-08-24 19:26:12.277 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-08-24 19:26:12.354 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
